@@ -1,5 +1,5 @@
 # Prime C3 Files
-This repository contains the source files for the Prime C3 map uploaded to steam. [You can find the map here]()
+This repository contains the source files for the Prime C3 map uploaded to steam. [You can find the map here](https://steamcommunity.com/sharedfiles/filedetails/?id=3007590658)
 
 These tags work with the Halo 1 MCC Editing Kit ONLY. It is not meant for use with Halo Custom Edition or Halo 1 Xbox!
 
